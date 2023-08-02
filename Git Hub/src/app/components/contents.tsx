@@ -1,0 +1,43 @@
+const productData = [
+    {
+      id: 1,
+      name: "Wireless Earbuds, IPX8",
+      image:
+        "https://massdrop-s3.imgix.net/product-images/massdrop-sennheiser-hd6xx/FP/cJolRuxYSgqdFtmFawp8_yJ6M80CfTZGYMcNKc5of_0cYrqmTrQFOf4cbRVO6t_H6xx%20Reshoot32572.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+      productType: "openBackHeadphones",
+      price: 89.99,
+      timeLeft: 27,
+      brand: "No" 
+    },
+    {
+      id: 2,
+      name: "AirPods Max",
+      image:
+        "https://massdrop-s3.imgix.net/product-images/drop-sennheiser-pc38x-gaming-headset/FP/CeH9BYVoTniYOsScfzZ0_PC.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+      productType: "openBackHeadphones",
+      price: 559.00,
+      timeLeft: 24,
+      brand: "No"
+    },
+    {
+      id: 3,
+      name: "Bose BT Earphones",
+      image:
+        "https://massdrop-s3.imgix.net/product-images/massdrop-x-sennheiser-hd-58x-jubilee-headphones/FP/jbCgVcPdRXZC1YRI2oZ3_3qKeFvWGRbQ3wreRhIVc_58x_clear.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+      productType: "openBackHeadphones",
+      price: 289.00,
+      timeLeft: 21,
+      brand: "No"
+    },
+    {
+      id: 4,
+      name: "VIVEFOX Headphones",
+      image:
+        "https://massdrop-s3.imgix.net/product-images/massdrop-x-sennheiser-hd-58x-jubilee-headphones/FP/jbCgVcPdRXZC1YRI2oZ3_3qKeFvWGRbQ3wreRhIVc_58x_clear.png?auto=format&fm=jpg&fit=fill&w=300&h=300&bg=f0f0f0&fill=solid&fill-color=f0f0f0&dpr=1&q=70",
+      productType: "openBackHeadphones",
+      price: 39.00,
+      timeLeft: 21,
+      brand: "No" 
+    }  
+  ];
+  export default productData;
